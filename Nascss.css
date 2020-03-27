@@ -1,0 +1,21 @@
+
+.mainNav {
+    background-color: black;
+}
+
+
+.logo {
+    width: 175px;
+}
+
+#shop {
+    border-color: cornsilk;
+    border-width: 1rem;
+}
+
+#hiddenList {
+    background: rgba(0, 0, 0, 0.5);
+    max-width: 15rem;
+}
+
+
